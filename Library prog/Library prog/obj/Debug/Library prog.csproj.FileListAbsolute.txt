@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Library prog\Library prog\bin\Debug\Library prog.exe.config
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Library prog\Library prog\bin\Debug\Library prog.exe
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Library prog\Library prog\bin\Debug\Library prog.pdb
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Library prog\Library prog\obj\Debug\Library prog.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Library prog\Library prog\obj\Debug\Library_prog.Form1.resources
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Library prog\Library prog\obj\Debug\Library_prog.Properties.Resources.resources
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Library prog\Library prog\obj\Debug\Library prog.csproj.GenerateResource.Cache
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Library prog\Library prog\obj\Debug\Library prog.exe
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Library prog\Library prog\obj\Debug\Library prog.pdb
